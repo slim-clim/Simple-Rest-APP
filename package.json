@@ -1,14 +1,14 @@
 {
-  "name": "mini-rest-api",
+  "name": "my-tracks-api",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
     "start": "nodemon app.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Godwin Oche",
   "license": "ISC",
-  "description": "",
+  "description": "A simple RESTful API for managing tracks",
   "dependencies": {
     "express": "^5.1.0"
   },
